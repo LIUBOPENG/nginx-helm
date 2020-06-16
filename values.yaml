@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: mayerlbp/nginx:1.0.0
+  repository: mayerlbp/nginx:1.0.1
   pullPolicy: IfNotPresent
 
 imagePullSecrets: []
